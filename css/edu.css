@@ -1,0 +1,11 @@
+/*!
+ * Eduardo Mejia - Portfolio v0.0.1 (http://eduarmreyes.herokuapp.com)
+ * Copyright 2017 - 2017 Eduardo Mejia
+ * Licensed under MIT (https://github.com/eduarmreyes/portfolio/LICENSE)
+ */
+header {
+  color: #777777;
+}
+.navbar-custom .nav li a {
+  color: #777777;
+}
